@@ -1,0 +1,12 @@
+D:\Users\Admin\source\repos\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+D:\Users\Admin\source\repos\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+D:\Users\Admin\source\repos\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+D:\Users\Admin\source\repos\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+D:\Users\Admin\source\repos\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Users\Admin\source\repos\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.genruntimeconfig.cache
